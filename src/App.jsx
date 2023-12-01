@@ -32,7 +32,7 @@ function App() {
               style={{
                 height: "auto",
                 margin: "0 auto",
-                maxWidth: 15f0,
+                maxWidth: 150,
                 width: "100%",
               }}
             >
